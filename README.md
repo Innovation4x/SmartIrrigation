@@ -10,3 +10,11 @@ python detect.py --weights runs\plant\best.pt --img 416 --conf 0.25 --source 1
 # Schematics
 ![Schematics Final](https://user-images.githubusercontent.com/95070425/170664702-9b0bf664-6124-439e-a505-07149bcbbc57.jpg)
 
+
+**Project detals**
+
+https://www.hackster.io/innovation4x/smart-plant-irrigation-with-health-detection-10564e
+
+**Youtube**
+
+https://youtu.be/VyUZXgu3qqk
